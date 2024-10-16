@@ -1,5 +1,5 @@
 "I think, Sebastian, therefore I am." ✍🏾
-Meu chamo Matheus Galhardo, sou estudante de Segurança da Informação e Redes, formado em Análise e Desenvolvimento de Sistemas e buscando uma pós-graduração em Cybersecurity.
+Me chamo Matheus Galhardo, sou estudante de Segurança da Informação e Redes, formado em Análise e Desenvolvimento de Sistemas e buscando uma pós-graduração em Cybersecurity.
 Mas, além desses, tenho interesse em linguagens de programação e desensolvimento de software, além de tecnologia em geral. Estudo programação periodicamente por curiosidade, diversão e, talvez, ajudar na minha carreira de cybersecurity.
 Sobre segurança, tenho conhecimento em protocolos IP, controle de acesso, configuração de dispositivos e redes, entre outros.
 Sobre programação, tenho conhecimento em Python, HTML, CSS e Java de forma que cresce conforme eu me interesso em estudar estes assuntos.
